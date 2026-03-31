@@ -1,4 +1,4 @@
-# -Open-Source-Software-cse0002
+# Open-Source-Software-cse0002
 # The Fork in the Road: How LibreOffice Was Born from a Crisis of Trust
 
 ## A Case Study in Open Source Governance, Community, and the Ethics of Control
